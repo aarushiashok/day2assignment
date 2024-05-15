@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
+
+.potato {
+    background-color: rgb(247, 173, 34);
+}
+
+.tomato {
+    background-color: rgb(187, 27, 27);
+}
+
+.cucumber {
+    background-color: rgb(30, 207, 89);
+}
